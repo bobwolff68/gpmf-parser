@@ -4,6 +4,13 @@
 *.obj
 *.elf
 
+gpmeta-export
+
+Makefile
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
 # Precompiled Headers
 *.gch
 *.pch
